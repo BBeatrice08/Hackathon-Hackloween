@@ -1,0 +1,12 @@
+Pour lancer le jeu, 
+
+1) télécharger le repository sur votre ordinateur
+
+2) à l'emplacement du dossier du jeu, taper la commande suivante dans la console de votre ordinateur:
+
+python -m SimpleHTTPServer
+
+
+3) puis taper localhost:8000 dans l'url de votre navigateur préféré, le jeu devrait apparaitre !
+
+Bonne partie!
